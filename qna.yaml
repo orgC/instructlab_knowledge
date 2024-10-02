@@ -209,4 +209,4 @@ document:
   repo: https://github.com/rhai-code/instructlab_knowledge
   commit: 83d9852ad97c6b27d4b24508f7cfe7ff5dd04d0d
   patterns:
-    instructlab.md
+    - instructlab.md
