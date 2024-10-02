@@ -23,11 +23,6 @@ seed_examples:
           Yes, the community welcomes everyone
           interested in generative AI.
       - question: |
-          What does the InstructLab project do?
-        answer: |
-          InstructLab enables contributions
-          to LLMs for fine-tuning, in an accessible way.
-      - question: |
           What is the mission of InstructLab?
         answer: |
           We are on a mission to let anyone
@@ -36,12 +31,6 @@ seed_examples:
           Our community welcomes all those who
           would like to help us enable everyone
           to shape the future of generative AI.
-      - question: |
-          Is InstructLab open source?
-        answer: |
-          Yes. InstructLab is a model-agnostic
-          open source AI project that facilitates
-          contributions to Large Language Models (LLMs).
   - context: |
       There are many projects rapidly embracing
       and extending permissively licensed AI models,
@@ -73,12 +62,6 @@ seed_examples:
           What makes it hard to contribute changes to AI models?
         answer: |
           The lack of AI/ML expertise creates a high barrier to entry.
-      - question: |
-          Are there any best practices for working with forked models?
-        answer: |
-          There are no best practices or any direct
-          community governance around the review,
-          curation, and distribution of forked models.
       - question: |
           What problems is Instructlab aiming to solve?
         answer: |
@@ -194,14 +177,6 @@ seed_examples:
           You can join our community meetings or office hours.
           You can find more details in our [Project Meetings documentation]
           (https://github.com/instructlab/community/blob/main/Collaboration.md#project-meetings).
-      - question: |
-          Are the community meetings recorded?
-        answer: |
-          some meetings are recorded and the recordings
-          [published in our project YouTube channel]
-          (https://www.youtube.com/@InstructLab/playlists).
-          The meeting host will advise all attendees
-          if the meeting is being recorded.
   - context: |
       InstructLab uses a novel synthetic data-based alignment
       tuning method for Large Language Models (LLMs.)
@@ -231,7 +206,7 @@ seed_examples:
 document_outline: |
   Details on the InstructLab community project.
 document:
-  repo: https://github.com/instructlab/.github
+  repo: https://github.com/rhai-code/instructlab_knowledge
   commit: 83d9852ad97c6b27d4b24508f7cfe7ff5dd04d0d
   patterns: 
-    README.md
+    instructlab.md
