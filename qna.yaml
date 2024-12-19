@@ -206,7 +206,7 @@ seed_examples:
 document_outline: |
   Details on the InstructLab community project.
 document:
-  repo: https://github.com/rhai-code/instructlab_knowledge
-  commit: a454cdb34c37968fc02f15faf1441f7e2eec44e6
+  repo: https://github.com/orgC/instructlab_knowledge
+  commit: f2672fd7862091fdc2fe4d967e885d8fd4429291
   patterns:
     - instructlab.md
