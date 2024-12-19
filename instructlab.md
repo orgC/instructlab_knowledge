@@ -65,3 +65,6 @@ The InstructLab project is sponsored by Red Hat.
 InstructLab was originally created by engineers from Red Hat and IBM Research.
 
 The infrastructure used to regularly train models based on new contributions from the community is donated and maintained by IBM.
+
+# other
+added by thomas for test 
